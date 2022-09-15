@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/musicplaye%20/static/css/main.c60534d6.css",
+    "main.js": "/musicplaye%20/static/js/main.f8cebbd3.js",
+    "index.html": "/musicplaye%20/index.html",
+    "main.c60534d6.css.map": "/musicplaye%20/static/css/main.c60534d6.css.map",
+    "main.f8cebbd3.js.map": "/musicplaye%20/static/js/main.f8cebbd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c60534d6.css",
+    "static/js/main.f8cebbd3.js"
+  ]
+}
